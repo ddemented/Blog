@@ -1,0 +1,9 @@
+---
+layout: post
+---
+###*Mauritius - food experience* **1**
+<img src="{{ site.baseurl }}/images/pic4.jpg">
+Not my first time eating a really thin italian pizza. But this was a delight especially with the green sauce/chutney(speciality of maurice) which 
+they seem to be adding in every dish right from their noodles, fried rice hotdog and now am muching away a pizza dipped in this sauce. Being a big fan of spicy food, i wouldnt complain for that extra spiciness. 
+
+At the End of the day it all depends on your taste bud, but if you are a fan of spicey tongue-on-fire kinda food, mauritius and the green chilly would be your one of your favourite food and a delightful experience.

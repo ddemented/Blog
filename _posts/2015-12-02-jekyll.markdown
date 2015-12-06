@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Jekyll"
+date:   2015-12-02 14:37:44
+---
+
+<img src="{{ site.baseurl }}/images/pic05.png">
+
+Been a fan of open source for quite some time, and it was sad that i never tried the jekyll before. So now when i was finally free from all sem exams, assignments, mini projects, credits blah blah, tried out the new jekyll and i feel its too easy. Other than deployement, making the posts and updating the site has never been much simpler.
+Deployment and editing the template takes nearly 2 hours on a windows machine(psst .. mac charging wire down i repeat man down :p).
+
+You can see the output for yourself.
